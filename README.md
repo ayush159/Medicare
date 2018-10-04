@@ -16,10 +16,13 @@ Medical cost in US is very high and the Medicare dataset has huge data related t
 Few Outcomes:
 
 Viz for point 3 above
+
 ![Nursing Facilities Distribution](https://github.com/ayush159/Medicare/blob/master/nursing_facilities.png)
 
-Viz for point 5th above
+
+Viz for point 5th
 ![Diagnosis/city VS Cost](https://github.com/ayush159/Medicare/blob/master/plot4.png)
+
 
 HCC Scores for different States
 ![MAX-Min HCC Scores](https://github.com/ayush159/Medicare/blob/master/hcc_Scores.png)
