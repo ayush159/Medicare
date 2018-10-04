@@ -11,3 +11,15 @@ Medical cost in US is very high and the Medicare dataset has huge data related t
   5. Most common inpatient diagnostic conditions in US, cities that have the most number for each diagnostic condition and the      average payments for these conditions in these cities and their comparison with the national average.
   6. Average HCC scores for different states and facilities.
   7. Comparison of nursing facilities across different states.
+
+
+Few Outcomes:
+
+Viz for point 3 above
+![Nursing Facilities Distribution](https://github.com/ayush159/Medicare/blob/master/nursing_facilities.png)
+
+Viz for point 5th above
+![Diagnosis/city VS Cost](https://github.com/ayush159/Medicare/blob/master/plot4.png)
+
+HCC Scores for different States
+![MAX-Min HCC Scores](https://github.com/ayush159/Medicare/blob/master/hcc_Scores.png)
